@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @PushkarKanjani
 - 👀 I’m interested in Competitive Programming and Game Development
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me https://github.com/PushkarKanjani/PushkarKanjani.git
+- 📫 How to reach me pushkar2640@gmail.com
